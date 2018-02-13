@@ -1,0 +1,12 @@
+D:\C++\MyConsole Release\data.txt
+D:\C++\MyConsole Release\file_names.txt
+D:\C++\MyConsole Release\main.cpp
+D:\C++\MyConsole Release\main.o
+D:\C++\MyConsole Release\Makefile.win
+D:\C++\MyConsole Release\myconsole.dev
+D:\C++\MyConsole Release\myconsole.exe
+D:\C++\MyConsole Release\myconsole.ico
+D:\C++\MyConsole Release\myconsole.layout
+D:\C++\MyConsole Release\myconsole_private.h
+D:\C++\MyConsole Release\myconsole_private.rc
+D:\C++\MyConsole Release\myconsole_private.res
